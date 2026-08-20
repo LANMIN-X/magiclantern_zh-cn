@@ -11,7 +11,6 @@ Magic Lantern 简体中文汉化版
 - 修复“最近使用”等动态菜单回退显示英文的问题。
 - 中文语言包位于 `ML/data/zh_cn.bin`，翻译源文件位于
   `data/languages/zh_cn.txt`。
-- 编译包使用 `机型.固件-日期.zip` 格式命名，编译署名为 `LANMIN`。
 
 ## 字体
 
