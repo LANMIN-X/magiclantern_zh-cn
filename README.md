@@ -1,5 +1,37 @@
+Magic Lantern 简体中文汉化版
+===========================
+
+本仓库是 [Magic Lantern](https://github.com/reticulatedpines/magiclantern_simplified)
+的简体中文汉化版本，由 LANMIN 维护。汉化修改仅保存在本仓库，不代表 Magic Lantern
+原作者或官方项目。
+
+## 汉化内容
+
+- 汉化主菜单、子菜单、功能说明、帮助文字及模块介绍。
+- 修复“最近使用”等动态菜单回退显示英文的问题。
+- 中文语言包位于 `ML/data/zh_cn.bin`，翻译源文件位于
+  `data/languages/zh_cn.txt`。
+- 编译包使用 `机型.固件-日期.zip` 格式命名，编译署名为 `LANMIN`。
+
+## 字体
+
+中文和可显示的英文统一使用 [Fusion Pixel Font](https://github.com/TakWolf/fusion-pixel-font)
+12px 简体中文字形，避免中英文混用不同字体。字体会根据 Magic Lantern 原有菜单字号
+进行整数缩放，以适配不同菜单、说明文字和屏幕布局。
+
+Fusion Pixel Font 按 SIL Open Font License 1.1 授权，许可证副本位于
+[`data/fonts/FusionPixel-OFL.txt`](data/fonts/FusionPixel-OFL.txt)。
+
+## 使用说明
+
+请下载与相机型号及佳能固件版本完全对应的编译包，并将压缩包中的全部文件复制到存储卡。
+不要混用不同机型或不同固件版本的文件。Magic Lantern 属于非官方软件，使用前请自行了解
+相关风险并备份存储卡数据。
+
+## 原项目介绍
+
 Magic Lantern
-=============
+-------------
 
 Magic Lantern (ML) is a software enhancement that offers increased
 functionality to the excellent Canon DSLR cameras.
