@@ -186,11 +186,12 @@ if len(last_change_info):
     add_string("Last update", "%s on %s by %s:\n%s" % (last_changeset, last_change_date, author, commit_msg))
 
 build_date = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+build_user = os.environ.get("BUILD_USER")
 
 # echo called from python in Windows behaves differently, better to avoid it.
-if sys.platform == 'win32':
+if not build_user and sys.platform == 'win32':
     build_user = run('whoami').replace("\n", "") + "@" + run('hostname').replace("\n", "")
-else:
+elif not build_user:
     build_user = run("echo `whoami`@`hostname`")
 
 add_string("Build date", build_date)
