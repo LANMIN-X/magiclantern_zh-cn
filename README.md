@@ -34,9 +34,9 @@ Fusion Pixel Font 按 SIL Open Font License 1.1 授权，许可证副本位于
 | Canon EOS 100D | [下载 100D.101-20260820.zip](https://pan.quark.cn/s/30c4ae82024a) | 1.0.1 | — |
 | Canon EOS 1100D | [下载 1100D.105-20260820.zip](https://pan.quark.cn/s/59afe5404efa) | 1.0.5 | — |
 | Canon EOS 200D | [下载 200D.101-20260820.zip](https://pan.quark.cn/s/847f99e8ec78) | 1.0.1 | — |
-| Canon EOS 500D | [下载 500D.111-20260820.zip](https://pan.quark.cn/s/c26e4eb5e6ac) | 1.1.1 | — |
+| Canon EOS 500D | [下载 500D.111-20260820.zip](https://pan.quark.cn/s/c26e4eb5e6ac) | 1.1.1 | ✅ 网友反馈通过 |
 | Canon EOS 50D | [下载 50D.109-20260820.zip](https://pan.quark.cn/s/ff6f0f79ec16) | 1.0.9 | — |
-| Canon EOS 550D | [下载 550D.109-20260820.zip](https://pan.quark.cn/s/cd4c7292e69d) | 1.0.9 | ✅ 网友反馈通过 |
+| Canon EOS 550D | [下载 550D.109-20260820.zip](https://pan.quark.cn/s/cd4c7292e69d) | 1.0.9 | — |
 | Canon EOS 5D Mark II | [下载 5D2.212-20260820.zip](https://pan.quark.cn/s/39f53d0b4088) | 2.1.2 | — |
 | Canon EOS 5D Mark III | [下载 5D3.113-20260820.zip](https://pan.quark.cn/s/e4fc4bd4752d) | 1.1.3 | — |
 | Canon EOS 5D Mark III | [下载 5D3.123-20260820.zip](https://pan.quark.cn/s/b8d53fbcfb83) | 1.2.3 | — |
