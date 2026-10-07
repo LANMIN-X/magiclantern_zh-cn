@@ -42,7 +42,7 @@ Fusion Pixel Font 按 SIL Open Font License 1.1 授权，许可证副本位于
 | Canon EOS 5D Mark III | [下载 5D3.123-20260820.zip](https://pan.quark.cn/s/b8d53fbcfb83) | 1.2.3 | — |
 | Canon EOS 5D Mark IV | [下载 5D4.133-20260820.zip](https://pan.quark.cn/s/d9111abfe6e2) | 1.3.3 | — |
 | Canon EOS 600D | [下载 600D.102-20260820.zip](https://pan.quark.cn/s/5e6d0b31b222) | 1.0.2 | ✅ 已实机测试 |
-| Canon EOS 60D | [下载 60D.111-20260820.zip](https://pan.quark.cn/s/919905540257) | 1.1.1 | | ✅ 网友反馈通过 |
+| Canon EOS 60D | [下载 60D.111-20260820.zip](https://pan.quark.cn/s/919905540257) | 1.1.1 | ✅ 网友反馈通过 |
 | Canon EOS 650D | [下载 650D.104-20260820.zip](https://pan.quark.cn/s/903d40fbb070) | 1.0.4 | — |
 | Canon EOS 6D | [下载 6D.116-20260820.zip](https://pan.quark.cn/s/88297b3dd875) | 1.1.6 | — |
 | Canon EOS 6D Mark II | [下载 6D2.111-20260820.zip](https://pan.quark.cn/s/61168cb6e71f) | 1.1.1 | — |
